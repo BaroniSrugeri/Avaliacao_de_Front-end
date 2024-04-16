@@ -1,0 +1,66 @@
+.cabeçalho{
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Times New Roman', sans-serif;
+    background-color:#1B3D2F;
+    font-size: 50px;
+    color: #F2FEDE;
+    padding: 60px;
+}
+.foto_ferramentas{
+    width: 50px;
+}
+.pedido{
+    font-size: 30px;
+    background-color: #1B3D2F;
+    color: #F2FEDE;
+    text-align: right;
+    margin-top: -115px;
+    padding: 20px;
+    cursor: pointer;
+    color: #F2FEDE;
+    text-decoration: none;
+
+}
+a{
+    text-decoration: none;
+    color: #F2FEDE;
+}
+.ferramentas{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 30px;
+    background-color:#1B3D2F;
+    color: #F2FEDE;
+    padding: 50px;
+}
+.disjuntor{
+text-align: left;
+font-size: 30px;
+padding: 20px;
+margin-top: 10px;
+}
+
+.tomadas{
+text-align: center;
+font-size: 30px;
+padding: 30px;
+margin-top: -190px;
+
+}
+.fios_de_cobre{
+text-align: right;
+font-size: 30px;
+margin: 0;
+margin-top: -200px;
+padding: 30px;
+}
+
+.sobre{
+    margin-top: 720px;
+    text-align: center;
+    background-color:#1B3D2F;
+    color: #F2FEDE;
+    padding: 30px;
+    margin-top: 150px;
+}
