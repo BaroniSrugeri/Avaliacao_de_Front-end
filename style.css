@@ -1,66 +1,63 @@
-.cabeçalho{
+*{
+    margin: 0;
+    margin-bottom: 50px;
+}
+.cabecalho{
     text-align: center;
-    margin-top: 30px;
     font-family: 'Times New Roman', sans-serif;
     background-color:#1B3D2F;
     font-size: 50px;
     color: #F2FEDE;
-    padding: 60px;
-}
-.foto_ferramentas{
-    width: 50px;
+    padding: 70px;
 }
 .pedido{
     font-size: 30px;
     background-color: #1B3D2F;
     color: #F2FEDE;
     text-align: right;
-    margin-top: -115px;
+    margin-top: -100px;
     padding: 20px;
     cursor: pointer;
-    color: #F2FEDE;
     text-decoration: none;
 
 }
 a{
     text-decoration: none;
     color: #F2FEDE;
+    background-color: #1B3D2F;
 }
 .ferramentas{
     text-align: center;
-    margin-top: 35px;
-    font-size: 30px;
+    margin-top: -50px;
+    font-size: 40px;
     background-color:#1B3D2F;
     color: #F2FEDE;
-    padding: 50px;
+    padding: 60px;
 }
 .disjuntor{
+margin-left: 10px;
 text-align: left;
 font-size: 30px;
-padding: 20px;
-margin-top: 10px;
+color: #1B3D2F;
 }
 
 .tomadas{
 text-align: center;
 font-size: 30px;
-padding: 30px;
-margin-top: -190px;
-
+color: #1B3D2F;
+margin-top: -8%;
 }
 .fios_de_cobre{
 text-align: right;
+margin-right: 10px;
 font-size: 30px;
-margin: 0;
-margin-top: -200px;
-padding: 30px;
+color: #1B3D2F;
+margin-top: -8%;
 }
 
 .sobre{
-    margin-top: 720px;
     text-align: center;
     background-color:#1B3D2F;
     color: #F2FEDE;
     padding: 30px;
-    margin-top: 150px;
 }
