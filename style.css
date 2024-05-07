@@ -35,24 +35,24 @@ a{
     padding: 60px;
 }
 .disjuntor{
-margin-left: 10px;
-text-align: left;
-font-size: 30px;
-color: #1B3D2F;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 30px;
+    color: #1B3D2F;
 }
 
 .tomadas{
-text-align: center;
-font-size: 30px;
-color: #1B3D2F;
-margin-top: -8%;
+    text-align: center;
+    font-size: 30px;
+    color: #1B3D2F;
+    margin-top: -8%;
 }
 .fios_de_cobre{
-text-align: right;
-margin-right: 10px;
-font-size: 30px;
-color: #1B3D2F;
-margin-top: -8%;
+    text-align: right;
+    margin-right: 10px;
+    font-size: 30px;
+    color: #1B3D2F;
+    margin-top: -8%;
 }
 
 .sobre{
