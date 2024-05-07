@@ -5,10 +5,10 @@
    }
    .pedidos{
     font-size: 20px;
-       height: 100vh;
-       display: grid;
-       margin-top: 20px;
-       color: #F2FEDC;
+    height: 100vh;
+    display: grid;
+    margin-top: 20px;
+    color: #F2FEDC;
    }
    .dados{
     padding: 20px;
