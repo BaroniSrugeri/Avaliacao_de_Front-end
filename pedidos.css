@@ -1,11 +1,14 @@
 *{
-    margin: 0;
     font-family: sans-serif, 'Times New Roman';
+    background-color: #1B3D2F;
+    overflow: hidden;
    }
    .pedidos{
+    font-size: 20px;
        height: 100vh;
        display: grid;
        margin-top: 20px;
+       color: #F2FEDC;
    }
 
    .dados{
@@ -15,6 +18,7 @@
    h1{
        text-align: center;
        margin: 10px 0;
+       color:  #F2FEDC;
    }
 
    input{
@@ -25,13 +29,14 @@
        outline: none;
        padding: 10px;
        border-bottom: 1px solid;
+       color:  #F2FEDC;
    }
    
    button{
-       background-color: black;
-       color: white;
+       background-color: #F2FEDC;
+       color: #1B3D2F;
        padding: 10px;
-       width: 130px;
+       width: 150px;
        border: none;
        border-radius: 5px;
        cursor: pointer;
